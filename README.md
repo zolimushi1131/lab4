@@ -1,7 +1,7 @@
 # lab4
 Q.A:
-004011e9 T average(int, float)
-004011d0 T average(double*, double&)
+004011e9 T average(int, float)<br>
+004011d0 T average(double*, double&)<br>
 
 Q.B:
 1       4<br>
